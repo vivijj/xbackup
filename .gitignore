@@ -1,0 +1,5 @@
+.vscode
+/tmp
+*.ckpt
+node_modules
+.env
